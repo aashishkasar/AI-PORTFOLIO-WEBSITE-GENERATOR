@@ -417,11 +417,6 @@ streamlit run app.py
 
 ---
 
-Perfect 👍
-Below is a **clean, standard MIT License section** you can **directly append at the end of your `README.md`**, plus the **separate `LICENSE` file content** (industry best practice).
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
